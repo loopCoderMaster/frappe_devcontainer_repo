@@ -19,7 +19,7 @@ Streamline Frappe and ERPNext development with practical examples and guides on 
 
 ## Frappe installation
 
-### Ufficial
+### Official
 
 - https://frappeframework.com/docs/user/en/installation
 
@@ -45,3 +45,36 @@ The Development Container Specification seeks to find ways to enrich existing fo
 https://code.visualstudio.com/docs/devcontainers/containers
 
 - Using Dev Containers in WSL 2: https://code.visualstudio.com/blogs/2020/07/01/containers-wsl
+
+### Youtube
+
+- How To Set Up Local DevOps Environment With Docker using Dev Containers: https://www.youtube.com/watch?v=XTfIVffnapo
+
+## DevPod
+https://devpod.sh/
+https://github.com/loft-sh/devpod
+
+DevPod is infrastructure-independent and client-only, which makes it incredibly easy to get started with. 
+DevPod allows you to spin up dev environments based on the devcontainer.json but it can also set up a best-estimate dev environment by analyzing your project.
+DevPod is the first and only tool for creating and managing dev environments that does not require a heavyweight server-side setup. Developers can write code in any language, and run it anywhere.
+
+### DevPod Providers
+https://devpod.sh/docs/managing-providers/add-provider
+
+The DevPod team maintains providers for popular services such as:
+
+- Docker (docker)
+- Kubernetes (kubernetes)
+- SSH (ssh)
+- AWS (aws)
+- Google Cloud (gcloud)
+- Azure (azure)
+- Digital Ocean (digitalocean)
+
+## Microsoft Azure
+
+### Azure CLI
+
+- How to install the Azure CLI: https://learn.microsoft.com/en-us/cli/azure/install-azure-cli
+- Install Azure CLI on Windows: https://learn.microsoft.com/en-us/cli/azure/install-azure-cli-windows?tabs=azure-cli
+
