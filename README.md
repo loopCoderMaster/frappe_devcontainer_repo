@@ -76,3 +76,12 @@ The DevPod team maintains providers for popular services such as:
 - How to install the Azure CLI: https://learn.microsoft.com/en-us/cli/azure/install-azure-cli
 - Install Azure CLI on Windows: https://learn.microsoft.com/en-us/cli/azure/install-azure-cli-windows?tabs=azure-cli
 
+## Auth Flow
+1. open cli for example powershell, bash or cmd
+2. az login
+3. login on azure subscription
+4. open devpod program
+5. new azure provider with subscription and other settings
+6. new workspaces with corruent git repo url
+7. start workspace
+
