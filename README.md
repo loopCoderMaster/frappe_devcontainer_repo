@@ -54,9 +54,7 @@ https://code.visualstudio.com/docs/devcontainers/containers
 https://devpod.sh/
 https://github.com/loft-sh/devpod
 
-DevPod is infrastructure-independent and client-only, which makes it incredibly easy to get started with. 
-DevPod allows you to spin up dev environments based on the devcontainer.json but it can also set up a best-estimate dev environment by analyzing your project.
-DevPod is the first and only tool for creating and managing dev environments that does not require a heavyweight server-side setup. Developers can write code in any language, and run it anywhere.
+DevPod is a client-only tool to create reproducible developer environments based on a devcontainer.json on any backend. Each developer environment runs in a container and is specified through a devcontainer.json. Through DevPod providers, these environments can be created on any backend, such as the local computer, a Kubernetes cluster, any reachable remote machine, or in a VM in the cloud.
 
 ### DevPod Providers
 https://devpod.sh/docs/managing-providers/add-provider
