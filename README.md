@@ -30,3 +30,18 @@ Streamline Frappe and ERPNext development with practical examples and guides on 
 - Install frappe-bench using docker: https://gist.github.com/revant/010c058f7c485cc62f2cc4d604ab8511
 - Installing ERPNext on MicroK8s/Kubernetes: https://about.lovia.id/docs/infrastructure/erpnext/installing-erpnext-on-microk8s/
 - Quick Start Full Bench Support Deployment: https://github.com/frappe/frappe_docker/issues/858
+
+## Devcontainers
+
+## Development Containers
+https://containers.dev/
+
+What are Development Containers?
+A development container (or dev container for short) allows you to use a container as a full-featured development environment. It can be used to run an application, to separate tools, libraries, or runtimes needed for working with a codebase, and to aid in continuous integration and testing. Dev containers can be run locally or remotely, in a private or public cloud, in a variety of supporting tools and editors.
+
+The Development Container Specification seeks to find ways to enrich existing formats with common development specific settings, tools, and configuration while still providing a simplified, un-orchestrated single container option – so that they can be used as coding environments or for continuous integration and testing. Beyond the specification's core metadata, the spec also enables developers to quickly share and reuse container setup steps through Features and Templates.
+
+## Visual Studio Code - Developing inside a Container
+https://code.visualstudio.com/docs/devcontainers/containers
+
+- Using Dev Containers in WSL 2: https://code.visualstudio.com/blogs/2020/07/01/containers-wsl
